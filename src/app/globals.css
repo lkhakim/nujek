@@ -1,11 +1,6 @@
 @import "tailwindcss";
 
 @theme inline {
-  /* Colors */
-  --color-emerald-primary: #10b981;
-  --color-yellow-accent: #facc15;
-  --color-surface-clean: #f8fafc;
-  
   /* Semantic Colors */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
